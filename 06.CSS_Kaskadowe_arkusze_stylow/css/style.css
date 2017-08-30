@@ -1,0 +1,54 @@
+body {
+    background-color: blue;
+	p {
+		color: green
+	}
+	p {	
+		color: red
+	}
+	p {
+		color: brown
+	}
+	p {
+		color: brown
+	}
+	p {
+		color: brown
+	}
+	p {
+		color: brown
+	}
+	p {
+		color: brown
+	}
+	p {
+		color: brown
+	}
+	p {
+		color: brown
+	}
+	p {
+		color: brown
+	}
+	p {
+		color: brown
+	}
+	p {
+		color: brown
+	}
+	div.block {
+		background-color: yellow;
+	}
+	div.block {
+		background-color: yellow;
+	}
+	div.block {
+		background-color: yellow;
+	}
+	div.block {
+		background-color: yellow;
+	}
+	div.block {
+		background-color: yellow;
+	}
+}

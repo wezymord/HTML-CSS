@@ -1,0 +1,26 @@
+div {
+	width: 500px;
+}
+h1 { 
+	text-indent: 100px;
+	font-weight: bolder;
+	font-family: "Arial", Arial;
+	background-color: #ACC4CE;
+	color: white;
+	font-size: 20px;
+	text-shadow:#878787;
+}
+p {
+	font-family: "Verdana", Verdana, serif;
+	color: #395075;
+	letter-spacing: 10px;
+	font-style: italic;
+}
+span {
+	font-family: sans-serif;
+	color: gray;
+	font-size: 14px;
+	line-height: 20px;
+	text-indent: 20px;
+}
+

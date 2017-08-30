@@ -1,0 +1,25 @@
+p {
+	font-size: 25px;
+	color: gray;
+}
+p.b {
+	color: black;
+	font-weight: bold;
+}
+p.c {
+	font-size: 20px;
+	color: black;
+}
+textarea {
+	font-style: italic;
+	color: gray;
+}
+input.a {
+	width: 100px;
+}
+span {
+	font-size: 30px;
+	font-weight: bold;
+	color: black;
+}
+

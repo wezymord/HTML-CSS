@@ -1,0 +1,33 @@
+span {
+	color: red;
+}
+span1 {
+	color: blue;
+}
+span2 {
+	color: purple;
+}
+span3 {
+	color: green;
+}
+div.my_class {
+	width: 150px;
+	height:20px;
+	background-color: #ff0;
+	color: rgba(255, 0, 0, .25);
+}
+div.first_class {
+	color: hsl(51, 100%, 25%);
+}
+div.second_class {
+	background-color: red;
+	width: 200px;
+}
+p.f_p_class {
+	background-color: green;
+	width: 50%;
+}
+p.s_p_class {
+	background-color: purple;
+	width: 20%;
+}
